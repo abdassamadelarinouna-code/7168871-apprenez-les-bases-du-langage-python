@@ -1,1 +1,7 @@
-# Écrivez votre code ici !
+def addition(num1, num2):
+  resultat=num1+num2
+  return resultat
+
+def multiplication(num1, num2):
+  resultat=num1+num2
+  return resultat
